@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultithreadedProramming1_SeparateClass</string>
+    <string name="btn">Click to flip coins</string>
+</resources>
